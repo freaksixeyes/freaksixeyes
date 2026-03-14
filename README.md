@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**freaksixeyes/freaksixeyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/freaksixeyes/freaksixeyes/blob/main/satoru-gojo-icegif-5.gif" width="90%">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <h3>𝒮𝓊𝓅𝑒𝓇 𝒮𝑒𝓃𝒾𝑜𝓇</h3>
+  <br>
+  <p>I really enjoy gi, crk, roblox, and pokemon </p>
+  <br>
+  <p>he/him-</p>
+</div>
