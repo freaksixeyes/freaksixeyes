@@ -1,14 +1,7 @@
 
-
-<p align="center">
-  <img src="https://github.com/freaksixeyes/freaksixeyes/blob/main/satoru-gojo-icegif-5.gif" width="90%">
-</p>
-
-
 <div align="center">
+  <video src="https://github.com/user-attachments/assets/06725dc1-ea08-42cb-aef1-c02c3ce59b94
+" width="30%"></video>
+  <br>
   <h3>𝒮𝓊𝓅𝑒𝓇 𝒮𝑒𝓃𝒾𝑜𝓇</h3>
-  <br>
-  <p>I really enjoy gi, crk, roblox, and pokemon </p>
-  <br>
-  <p>he/him-</p>
 </div>
